@@ -120,4 +120,40 @@ Su carrera deportiva está marcada por numerosas lesiones, que sin embargo no le
   <div><em>El Guepardo en su punto álgido de seducción</em></div>
 </div>
 
-Es conocido por haber sido un asiduo frecuentador de salas de estudio, usándolas más como terrenos de caza que como lugares de instrucción, merodeando entre los bancos como un guepardo hormonal en busca de una abundancia ortopédica sobre la cual lanzarse; exhibiendo...
+Es conocido por haber sido un asiduo frecuentador de salas de estudio, usándolas más como terrenos de caza que como lugares de instrucción, merodeando entre los bancos como un guepardo hormonal en busca de una abundancia ortopédica sobre la cual lanzarse; exibiendo lo máximo de sus capacidades seductoras, empezando así una nueva etapa biográfica.</p>
+    
+  <div class="section">
+
+  <div class="section">
+    <h2>Il caso mediatico</h2>
+
+  <h2>Arresto e scomparsa</h2>
+
+<div style="width: 300px; margin: 10px 20px 10px 0; font-size: 90%; text-align: center;">
+  <img src="./images/arresto.png" alt="Ultima foto esistente di Antonio durante l'arresto" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
+  <div><em>Ultima foto esistente di Antonio durante l'arresto, da questo momento in poi le sue tracce si perdono nei marasmi della burocrazia giudiziaria</em></div>
+</div>
+
+<p>Durante una gita con amici a Madrid, il 24 maggio 2025, per ragioni ancora da chiarire, Antonio è stato arrestato e condotto in carcere <small><i>(secondo El País, l'arresto sarebbe avvenuto durante una rissa a base di karaoke e sangria)</i></small>. Nonostante le testimonianze dei compagni, la polizia spagnola nega tale avvenimento, risultando a tutt'oggi ufficialmente scomparso. Le fiacche e poco insistenti lamentele dei compagni non sono state sufficienti a fare chiarezza sul caso <small><i>(secondo certi l'inefficacia delle rimostranze fu dovuta al fatto che furono trascritte su carta igienica e inviate via corriere low-cost)</i></small>.</p>
+   
+  <div class="section">
+    <h2>Ideologia e affiliazioni</h2>
+    <p>Antonio si dichiara moderato (Partito Carismatico dei Moderati Incerti), ma manifesta tendenze democristiane di fondo, con tratti di ambiguità politica e spirituale. La sua adesione a strutture comunitarie è intensa ma ciclica, e la sua capacità di assumere ruoli di potere è direttamente proporzionale alla possibilità di farsi notare.</p>
+  </div>
+
+  <div class="section">
+    <h2>Eredità e interpretazioni</h2>
+    <p>Alla sua scomparsa, Antonio lascia una vasta mole di materiali scadenti, un paio di scarpe ancora calde e un profilo Facebook attivo. La sua figura è oggetto di dibattito tra studiosi di psicopatologia, tifosi del Palo e sessuologi gesuiti.
+
+Viene commemorato ogni anno con la "Notte del Pristina", un rito collettivo che prevede il canto ad alta voce delle sue opere più note (La Diagnosi, La mia sparizione in Olanda, Jefferson) e una danza rituale attorno a una padella di risotto all’aceto.</p>
+  </div>
+
+  <div class="section">
+    <h2>Dibattiti storiografici</h2>
+    <ul>
+      <li>Il numero esatto di eiaculazioni del Meade ingerite da Anselmi è oggetto di dibattito accademico.</li>
+      <li>Secondo alcune fonti, il colpo in testa ricevuto dal mandolino sarebbe stata in realtà un tentativo di autodifesa da parte del mandolino vittima di gesti poco pudichi indesiderati.</li>
+      <li>Il risotto all’aceto è stato candidato come patrimonio immateriale della tragicommedia educativa piemontese.</li>
+      <li>Lo storico della Legione di Cristo, David Murray nel suo saggio "Un racconto di uso e abuso" insiste nel suggerire che la sua altezza limitata sia stata indotta volontariamente per rendere più agevole lo svolgimento della sua funzione di inalatore di etere posteriore.</li>
+    </ul>
+  </div>
