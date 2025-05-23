@@ -50,7 +50,7 @@ layout: default
   <div><em>Sello de aprobación</em></div> 
 </div>
 
-  <p><strong>Antonio Anselmi</strong> (conocido como Tony, Capea, Thomas Turbado; nacido en Padua el 22 de julio de 1992 - desaparecido en Madrid el 24 de mayo de 2025) es un célebre caso mediático tras su desaparición en Madrid el 24 de mayo de 2025.</p>
+  <p><strong>Antonio Anselmi</strong> (conocido como Tony, Capea, Thomas Turbado; nacido en Padua el 21 junio de 1992 - desaparecido en Madrid el 24 de mayo de 2025) es un célebre caso mediático tras su desaparición en Madrid el 24 de mayo de 2025.</p>
 
   <p>Individuo de origen incierto entre el clero y el submundo futbolístico paduano, conocido por una carrera ecléctica que abarca desde el seminario hasta el torneo del palo, pasando por estudios universitarios prolongados y una cantidad no despreciable de episodios gastrointestinales documentados.</p>
 
@@ -64,7 +64,7 @@ layout: default
 <img src="./images/parto.png" alt="Sala donde tuvo lugar el feliz acontecimiento" style="max-width: 100%; height: auto; display: block; margin-bottom: 4px;">
 <div><em>Foto de época de la sala donde tuvo lugar el feliz acontecimiento del nacimiento de Antonio; hoy transformada en lugar de peregrinación</em></div>
 </div>
-  <p>Antonio nace el 22 de julio de 1992 <small><i>(o eso dicen)</i></small> de padres ya curtidos, Betta y Vinicio, como el quinto de una prolífica camada. El nacimiento ocurre en un clima veraniego sofocante, plagado de mosquitos y poca inspiración por parte de los padres (que en este caso no brillaron). Desde temprana edad se distingue por su tendencia a huir, rebelarse y a lucir peinados cuestionables. Desde muy joven muestra inclinación por la travesura y una forma precoz de egocentrismo patológico.</p>
+  <p>Antonio nace el 2i de junio de 1992 <small><i>(o eso dicen)</i></small> de padres ya curtidos, Betta y Vinicio, como el quinto de una prolífica camada. El nacimiento ocurre en un clima veraniego sofocante, plagado de mosquitos y poca inspiración por parte de los padres (que en este caso no brillaron). Desde temprana edad se distingue por su tendencia a huir, rebelarse y a lucir peinados cuestionables. Desde muy joven muestra inclinación por la travesura y una forma precoz de egocentrismo patológico.</p>
 
    <h3>Formación religiosa y Seminario de Gozzano</h3>
     <p>Alrededor de los diez años, es encaminado hacia la carrera eclesiástica e inscrito en el Seminario de Gozzano. Aquí se destaca por su precoz vocación y ambición desmesurada, ganándose el apodo de "Monseñor" <small><i>(Maciel, M. (2006). Mi vida es Cristo. Editorial ART)</i></small>. Paralelamente desarrolla notables habilidades en el arte del peloteo institucional, descritas por fuentes contemporáneas como “extraordinariamente eficaz en la remoción de residuos fecales para sacrum osculum”. 
